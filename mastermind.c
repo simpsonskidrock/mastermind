@@ -25,6 +25,7 @@ int l = 0;
 int k = 0;
 int perfect = 0;
 int almost = 0;
+printf("Welcome to mastermind! Can you crack my code?\n");
 printf("Give it a try!\n");
 
 // user input
